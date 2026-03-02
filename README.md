@@ -1,3 +1,9 @@
+this is a old repo from a while ago that i havent uploaded here, this bot doesnt work with many bugs following in its creation, feel free to download and tinker with it if you'd like.
+
+i will be attempting at remaking this and try to get it to work *hopefully*
+if not then you guys can have this for now
+
+
 # Taiko no Tatsujin: Rhythm Festival Bot 🥁
 
 An automated Python bot that plays Taiko no Tatsujin: Rhythm Festival by detecting notes on screen and hitting them automatically using computer vision.
@@ -9,7 +15,6 @@ An automated Python bot that plays Taiko no Tatsujin: Rhythm Festival by detecti
 - **Customizable Configuration** - Adjust detection areas, hit zones, colors, and timing
 - **Calibration Tool** - Easy setup wizard to configure for your screen
 - **Debug Overlay** - Visual feedback showing detected notes and hit zones
-- **High Performance** - Runs at 60+ FPS for accurate detection
 
 ## Requirements
 
