@@ -1,0 +1,52 @@
+{
+  "raw_points": [
+    [
+      666,
+      462
+    ],
+    [
+      667,
+      785
+    ],
+    [
+      2550,
+      459
+    ],
+    [
+      2557,
+      787
+    ],
+    [
+      758,
+      597
+    ]
+  ],
+  "point_names": [
+    "TOP-LEFT (start of note path)",
+    "TOP-RIGHT (end of note path)",
+    "BOTTOM-LEFT",
+    "BOTTOM-RIGHT",
+    "HIT ZONE (left edge of circle)"
+  ],
+  "config": {
+    "CAPTURE_REGION": {
+      "x": 0,
+      "y": 0,
+      "width": 2560,
+      "height": 1600
+    },
+    "DETECTION_AREA": {
+      "x": 666,
+      "y": 462,
+      "width": 1891,
+      "height": -3
+    },
+    "HIT_ZONE": [
+      808,
+      460
+    ],
+    "HIT_RADIUS": 50,
+    "PERFECT_RADIUS": 20,
+    "HIT_THRESHOLD": 80
+  }
+}
